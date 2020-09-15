@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-family: 'Grandstander', cursive;
+}
+
+.container {
+    height: 50px;
+    width: 600px;
+    text-align: center;
+    margin: 50px;
+}
+
+h2 {
+    margin-top: 150px;
+    margin-bottom: 0px;
+    
+}
+
+button {
+    margin-top: 50px;
+    background-color: #A79AFF;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: 'Grandstander', cursive;
+}
